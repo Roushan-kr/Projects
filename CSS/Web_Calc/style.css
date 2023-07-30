@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #000;
+    color: wheat;
+}
+.container {
+    text-align: center;
+    margin-top: 24px;
+    
+}
+.calculator{
+    display: inline-block;
+    background: #2a2323c9;
+    border-radius: 10px;
+    padding: 15px;
+}
+table {
+    margin: auto;
+
+}
+
+input {
+    height: 50px;
+    width: 354px;
+    /* background: green; */
+    font-size: 30px;
+    border: 2px solid #8b991a;
+    border-radius: 8px;
+    /* color: darkslategray; */
+    font-weight: bold;
+}
+button{
+    font-size: 27px;
+    background: rgb(0, 255, 247);
+    width: 88px;
+    height: 52px;
+    border-radius: 16px;
+}
+
