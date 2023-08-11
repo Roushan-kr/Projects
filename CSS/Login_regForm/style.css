@@ -95,7 +95,7 @@ body {
     transform: translateX(25px), translateY(-117px);
     font-size: 0.6em;
     padding: .8px;
-    margin-left: 40px;
+    margin-left: 25px;
     border-radius: 10px;
     letter-spacing: 0.1em;
 
@@ -141,4 +141,12 @@ body {
     font-weight: 500;
     color: #fff;
     /* font-style: italic; */
+}
+.container .form .passRes{
+    color: rgb(255, 0, 0);
+    font-size:0.85em ;
+    font-weight: 500;
+    padding: 10px;
+    letter-spacing: 0.2em;
+
 }
